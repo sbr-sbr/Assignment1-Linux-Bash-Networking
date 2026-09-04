@@ -1,0 +1,23 @@
+[2026-09-04 23:33:27] Network check started for host google.com.
+[2026-09-04 23:33:28] Resolved google.com to 142.251.39.110.
+[2026-09-04 23:33:30] Connectivity check succeeded for google.com.
+[2026-09-04 23:33:30] Displayed network interface information.
+[2026-09-04 23:33:33] TCP connectivity failed for google.com:8000.
+[2026-09-04 23:35:13] Invalid arguments: expected a host and optional port.
+[2026-09-04 23:36:38] Network check started for host localhost.
+[2026-09-04 23:36:38] Resolved localhost to 127.0.0.1.
+[2026-09-04 23:36:38] Connectivity check succeeded for localhost.
+[2026-09-04 23:36:38] Displayed network interface information.
+[2026-09-04 23:36:38] Network check completed for localhost.
+[2026-09-04 23:36:38] Invalid port: abc
+[2026-09-04 23:36:38] Invalid port: 0
+[2026-09-04 23:36:38] Invalid port: 65536
+[2026-09-04 23:36:38] Invalid arguments: expected a host and optional port.
+[2026-09-04 23:36:38] Network check started for host invalid.invalid.
+[2026-09-04 23:36:40] Host resolution failed for invalid.invalid.
+[2026-09-04 23:37:11] Network check started for host localhost.
+[2026-09-04 23:37:11] Resolved localhost to 127.0.0.1.
+[2026-09-04 23:37:11] Connectivity check succeeded for localhost.
+[2026-09-04 23:37:11] Displayed network interface information.
+[2026-09-04 23:37:11] TCP connectivity succeeded for localhost:22.
+[2026-09-04 23:37:11] Network check completed for localhost.
