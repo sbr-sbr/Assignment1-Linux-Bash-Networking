@@ -3,7 +3,7 @@
 echo "System Information:"
 current_hostname=$(hostname)
 current_user=$(whoami)
-current_date_time=$(date +"%F")
+current_date_time=$(date +"%F %T")
 device_operating_system=$(uname -s)
 device_kernel_version=$(uname -r)
 device_uptime=$(uptime -p)
