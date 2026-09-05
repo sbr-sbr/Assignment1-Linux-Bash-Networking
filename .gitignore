@@ -1,2 +1,16 @@
 *.qodo
 *.gitignore
+
+# Runtime and temporary files
+logs/*.log
+*.tmp
+*.temp
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Python cache files, if Python tools are used later
+__pycache__/
+*.py[cod]
